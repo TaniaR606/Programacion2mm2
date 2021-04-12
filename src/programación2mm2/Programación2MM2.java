@@ -7,7 +7,7 @@ package programación2mm2;
         
 /**
  *
- * @author lunit
+ * @author TaniaR
  */
 public class Programación2MM2 {
 
